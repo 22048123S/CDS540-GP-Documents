@@ -1,3 +1,7 @@
+# The whole part of the document stored in this link as the model document is too large to store in the github
+https://drive.google.com/file/d/1KvfZNPKdZAihMJ4UeFF9otsMbfjEa7we/view?usp=sharing
+
+
 # CLIP for Car Classification
 
 ## Code Architecture
